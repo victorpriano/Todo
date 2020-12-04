@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "eyZ06Em5n+iFybI6slgvoNQJBKcBDbYu4PoWuEv0vUxE9WADr0WmDOInt9q4hWyiFcYUoMvKElk07XOeSxhcyQ==",
+  "success": true,
+  "projectFilePath": "/home/victor/dev/MyProjects/Balta.io/Todo/Todo.Domain/Todo.Domain.csproj",
+  "expectedPackageFiles": [
+    "/home/victor/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/victor/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
