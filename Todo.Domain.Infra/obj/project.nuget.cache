@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "0MmtiGLI9Lvix46ycxo2DwjucEzKKpx3n+/g0fBb0PIYMJM+aEA10hCnil0yWtORxyxqgK46KWSBSKq10hH8QA==",
+  "dgSpecHash": "F3eD+o7iZQkQkkCtBrI1uvG/k/IfV8hSupSYrRbZefmd7v5vvdOw7OyxLo17D7VyGKFI6gJyXMYvzyjr1yxU+Q==",
   "success": true,
   "projectFilePath": "/home/victor/dev/MyProjects/Balta.io/Todo/Todo.Domain.Infra/Todo.Domain.Infra.csproj",
   "expectedPackageFiles": [
+    "/home/victor/.nuget/packages/flunt/1.0.5/flunt.1.0.5.nupkg.sha512",
     "/home/victor/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/home/victor/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
   ],

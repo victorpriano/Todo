@@ -1,11 +1,73 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "Flunt/1.0.5": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Flunt.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Flunt.dll": {}
+        }
+      },
+      "Todo.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "flunt": "1.0.5"
+        },
+        "compile": {
+          "bin/placeholder/Todo.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Todo.Domain.dll": {}
+        }
+      },
+      "Todo.Domain.Infra/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Todo.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Todo.Domain.Infra.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Todo.Domain.Infra.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Flunt/1.0.5": {
+      "sha512": "2p1B/LLsMf0bGwyMQK48/278OXTodXn3HyTU1v7fr/x0bNfrVSNC1Do1PxbgiOlDLChtAbtt1kPgXFqUnGAagg==",
+      "type": "package",
+      "path": "flunt/1.0.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "flunt.1.0.5.nupkg.sha512",
+        "flunt.nuspec",
+        "lib/netstandard2.0/Flunt.dll"
+      ]
+    },
+    "Todo.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Todo.Domain/Todo.Domain.csproj",
+      "msbuildProject": "../Todo.Domain/Todo.Domain.csproj"
+    },
+    "Todo.Domain.Infra/1.0.0": {
+      "type": "project",
+      "path": "../Todo.Domain.Infra/Todo.Domain.Infra.csproj",
+      "msbuildProject": "../Todo.Domain.Infra/Todo.Domain.Infra.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "Todo.Domain >= 1.0.0",
+      "Todo.Domain.Infra >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/home/victor/.nuget/packages/": {}
@@ -30,7 +92,14 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "/home/victor/dev/MyProjects/Balta.io/Todo/Todo.Domain.Infra/Todo.Domain.Infra.csproj": {
+              "projectPath": "/home/victor/dev/MyProjects/Balta.io/Todo/Todo.Domain.Infra/Todo.Domain.Infra.csproj"
+            },
+            "/home/victor/dev/MyProjects/Balta.io/Todo/Todo.Domain/Todo.Domain.csproj": {
+              "projectPath": "/home/victor/dev/MyProjects/Balta.io/Todo/Todo.Domain/Todo.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

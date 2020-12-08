@@ -24,6 +24,63 @@
         },
         "frameworks": {
           "netstandard2.0": {
+            "projectReferences": {
+              "/home/victor/dev/MyProjects/Balta.io/Todo/Todo.Domain/Todo.Domain.csproj": {
+                "projectPath": "/home/victor/dev/MyProjects/Balta.io/Todo/Todo.Domain/Todo.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.404/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/victor/dev/MyProjects/Balta.io/Todo/Todo.Domain/Todo.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/victor/dev/MyProjects/Balta.io/Todo/Todo.Domain/Todo.Domain.csproj",
+        "projectName": "Todo.Domain",
+        "projectPath": "/home/victor/dev/MyProjects/Balta.io/Todo/Todo.Domain/Todo.Domain.csproj",
+        "packagesPath": "/home/victor/.nuget/packages/",
+        "outputPath": "/home/victor/dev/MyProjects/Balta.io/Todo/Todo.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/victor/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
             "projectReferences": {}
           }
         },
@@ -41,6 +98,10 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "flunt": {
+              "target": "Package",
+              "version": "[1.0.5, )"
             }
           },
           "imports": [

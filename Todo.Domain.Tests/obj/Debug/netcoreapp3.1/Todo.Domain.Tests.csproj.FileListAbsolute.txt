@@ -92,3 +92,6 @@
 /home/victor/dev/MyProjects/Balta.io/Todo/Todo.Domain.Tests/obj/Debug/netcoreapp3.1/Todo.Domain.Tests.dll
 /home/victor/dev/MyProjects/Balta.io/Todo/Todo.Domain.Tests/obj/Debug/netcoreapp3.1/Todo.Domain.Tests.pdb
 /home/victor/dev/MyProjects/Balta.io/Todo/Todo.Domain.Tests/obj/Debug/netcoreapp3.1/Todo.Domain.Tests.genruntimeconfig.cache
+/home/victor/dev/MyProjects/Balta.io/Todo/Todo.Domain.Tests/bin/Debug/netcoreapp3.1/Flunt.dll
+/home/victor/dev/MyProjects/Balta.io/Todo/Todo.Domain.Tests/bin/Debug/netcoreapp3.1/Todo.Domain.dll
+/home/victor/dev/MyProjects/Balta.io/Todo/Todo.Domain.Tests/bin/Debug/netcoreapp3.1/Todo.Domain.pdb

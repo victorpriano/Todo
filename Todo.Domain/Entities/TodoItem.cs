@@ -7,6 +7,7 @@ namespace Todo.Domain.Entities
         public TodoItem(string title, string user, DateTime date)
         {
             Title = title;
+            Done = false;
             Date = date;
             User = user;
         }

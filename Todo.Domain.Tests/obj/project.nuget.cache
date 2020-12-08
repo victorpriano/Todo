@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "dzNAwGs63N/q6Cymc9qCmzGIrdmRURHYefYMBaZj5J3dOSLPu6NH2Nwyd6H/nxZ9WwTedvQCUmalkqJFxjBlUg==",
+  "dgSpecHash": "6qYsiy+WaXVFbirZgtDTjZwdB3OOgyadyPRLOH3zb19u8mM7Q5FRUoueuvXrU7thh3hyuRK6zG2zzkG8rMAaNw==",
   "success": true,
   "projectFilePath": "/home/victor/dev/MyProjects/Balta.io/Todo/Todo.Domain.Tests/Todo.Domain.Tests.csproj",
   "expectedPackageFiles": [
     "/home/victor/.nuget/packages/coverlet.collector/1.2.0/coverlet.collector.1.2.0.nupkg.sha512",
+    "/home/victor/.nuget/packages/flunt/1.0.5/flunt.1.0.5.nupkg.sha512",
     "/home/victor/.nuget/packages/microsoft.codecoverage/16.5.0/microsoft.codecoverage.16.5.0.nupkg.sha512",
     "/home/victor/.nuget/packages/microsoft.csharp/4.0.1/microsoft.csharp.4.0.1.nupkg.sha512",
     "/home/victor/.nuget/packages/microsoft.net.test.sdk/16.5.0/microsoft.net.test.sdk.16.5.0.nupkg.sha512",
