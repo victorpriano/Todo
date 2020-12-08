@@ -2,10 +2,10 @@ using Todo.Domain.Commands.Contracts;
 
 namespace Todo.Domain.Commands
 {
-    public class GenericCreateCommand : ICommandResult
+    public class GenericCommandResult : ICommandResult
     {
-        public GenericCreateCommand(){}
-        public GenericCreateCommand(bool success, string message, object data)
+        public GenericCommandResult(){}
+        public GenericCommandResult(bool success, string message, object data)
         {
             Success = success;
             Message = message;
