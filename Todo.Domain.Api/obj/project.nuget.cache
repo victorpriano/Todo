@@ -1,10 +1,30 @@
 {
   "version": 2,
-  "dgSpecHash": "Ov9KNoc5v69ikTcZpMR1UuxDOQc2gEclPkuTAJEoRXE+lB1fvGB+EBwpD0fKv45mQYHaNmq0kRHE7yPAI3kR0A==",
+  "dgSpecHash": "k4IC8f4T9FqC1WtZ953rQ9bNa+mOmjEcZn+311Jgd73eDTqSnmVbq5u8f/Zy0Sx2+sNhBuQecgSe9UNUhlrFRA==",
   "success": true,
   "projectFilePath": "/home/victor/dev/MyProjects/Balta.io/Todo/Todo.Domain.Api/Todo.Domain.Api.csproj",
   "expectedPackageFiles": [
-    "/home/victor/.nuget/packages/flunt/1.0.5/flunt.1.0.5.nupkg.sha512"
+    "/home/victor/.nuget/packages/flunt/1.0.5/flunt.1.0.5.nupkg.sha512",
+    "/home/victor/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "/home/victor/.nuget/packages/microsoft.bcl.hashcode/1.1.0/microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
+    "/home/victor/.nuget/packages/microsoft.entityframeworkcore/3.1.10/microsoft.entityframeworkcore.3.1.10.nupkg.sha512",
+    "/home/victor/.nuget/packages/microsoft.entityframeworkcore.abstractions/3.1.10/microsoft.entityframeworkcore.abstractions.3.1.10.nupkg.sha512",
+    "/home/victor/.nuget/packages/microsoft.entityframeworkcore.analyzers/3.1.10/microsoft.entityframeworkcore.analyzers.3.1.10.nupkg.sha512",
+    "/home/victor/.nuget/packages/microsoft.entityframeworkcore.inmemory/3.1.10/microsoft.entityframeworkcore.inmemory.3.1.10.nupkg.sha512",
+    "/home/victor/.nuget/packages/microsoft.extensions.caching.abstractions/3.1.10/microsoft.extensions.caching.abstractions.3.1.10.nupkg.sha512",
+    "/home/victor/.nuget/packages/microsoft.extensions.caching.memory/3.1.10/microsoft.extensions.caching.memory.3.1.10.nupkg.sha512",
+    "/home/victor/.nuget/packages/microsoft.extensions.configuration/3.1.10/microsoft.extensions.configuration.3.1.10.nupkg.sha512",
+    "/home/victor/.nuget/packages/microsoft.extensions.configuration.abstractions/3.1.10/microsoft.extensions.configuration.abstractions.3.1.10.nupkg.sha512",
+    "/home/victor/.nuget/packages/microsoft.extensions.configuration.binder/3.1.10/microsoft.extensions.configuration.binder.3.1.10.nupkg.sha512",
+    "/home/victor/.nuget/packages/microsoft.extensions.dependencyinjection/3.1.10/microsoft.extensions.dependencyinjection.3.1.10.nupkg.sha512",
+    "/home/victor/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/3.1.10/microsoft.extensions.dependencyinjection.abstractions.3.1.10.nupkg.sha512",
+    "/home/victor/.nuget/packages/microsoft.extensions.logging/3.1.10/microsoft.extensions.logging.3.1.10.nupkg.sha512",
+    "/home/victor/.nuget/packages/microsoft.extensions.logging.abstractions/3.1.10/microsoft.extensions.logging.abstractions.3.1.10.nupkg.sha512",
+    "/home/victor/.nuget/packages/microsoft.extensions.options/3.1.10/microsoft.extensions.options.3.1.10.nupkg.sha512",
+    "/home/victor/.nuget/packages/microsoft.extensions.primitives/3.1.10/microsoft.extensions.primitives.3.1.10.nupkg.sha512",
+    "/home/victor/.nuget/packages/system.collections.immutable/1.7.1/system.collections.immutable.1.7.1.nupkg.sha512",
+    "/home/victor/.nuget/packages/system.componentmodel.annotations/4.7.0/system.componentmodel.annotations.4.7.0.nupkg.sha512",
+    "/home/victor/.nuget/packages/system.diagnostics.diagnosticsource/4.7.1/system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
   ],
   "logs": []
 }
