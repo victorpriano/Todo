@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "5bFbzvwaC765eOy4gd7aq5371zJPRCjSReCOKzF3X+s+Jaa0yvTt6DJcqij4w6BeU/JfGJsRHgvhXmL6/KtkIA==",
+  "dgSpecHash": "jeTIORvGxiI7zdD0UCgKeqaJsNCkKxru+iWrIOGH68fhK4npYhIPjZA3z/r23gzeEMvergGCX6P3AinHslebdA==",
   "success": true,
   "projectFilePath": "/home/victor/dev/MyProjects/Balta.io/Todo/Todo.Domain.Infra/Todo.Domain.Infra.csproj",
   "expectedPackageFiles": [
@@ -14,6 +14,7 @@
     "/home/victor/.nuget/packages/microsoft.entityframeworkcore.design/3.1.10/microsoft.entityframeworkcore.design.3.1.10.nupkg.sha512",
     "/home/victor/.nuget/packages/microsoft.entityframeworkcore.inmemory/3.1.10/microsoft.entityframeworkcore.inmemory.3.1.10.nupkg.sha512",
     "/home/victor/.nuget/packages/microsoft.entityframeworkcore.relational/3.1.10/microsoft.entityframeworkcore.relational.3.1.10.nupkg.sha512",
+    "/home/victor/.nuget/packages/microsoft.entityframeworkcore.tools/3.1.10/microsoft.entityframeworkcore.tools.3.1.10.nupkg.sha512",
     "/home/victor/.nuget/packages/microsoft.extensions.caching.abstractions/3.1.10/microsoft.extensions.caching.abstractions.3.1.10.nupkg.sha512",
     "/home/victor/.nuget/packages/microsoft.extensions.caching.memory/3.1.10/microsoft.extensions.caching.memory.3.1.10.nupkg.sha512",
     "/home/victor/.nuget/packages/microsoft.extensions.configuration/3.1.10/microsoft.extensions.configuration.3.1.10.nupkg.sha512",

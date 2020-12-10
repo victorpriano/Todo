@@ -7,3 +7,6 @@
 /home/victor/dev/MyProjects/Balta.io/Todo/Todo.Domain.Infra/obj/Debug/netstandard2.0/Todo.Domain.Infra.csproj.CoreCompileInputs.cache
 /home/victor/dev/MyProjects/Balta.io/Todo/Todo.Domain.Infra/obj/Debug/netstandard2.0/Todo.Domain.Infra.dll
 /home/victor/dev/MyProjects/Balta.io/Todo/Todo.Domain.Infra/obj/Debug/netstandard2.0/Todo.Domain.Infra.pdb
+/home/victor/dev/MyProjects/Balta.io/Todo/Todo.Domain.Infra/bin/Debug/netstandard2.0/Todo.Domain.dll
+/home/victor/dev/MyProjects/Balta.io/Todo/Todo.Domain.Infra/bin/Debug/netstandard2.0/Todo.Domain.pdb
+/home/victor/dev/MyProjects/Balta.io/Todo/Todo.Domain.Infra/obj/Debug/netstandard2.0/Todo.Domain.Infra.csproj.CopyComplete
