@@ -10,3 +10,15 @@
 /home/victor/dev/MyProjects/Balta.io/Todo/Todo.Domain.Infra/bin/Debug/netstandard2.0/Todo.Domain.dll
 /home/victor/dev/MyProjects/Balta.io/Todo/Todo.Domain.Infra/bin/Debug/netstandard2.0/Todo.Domain.pdb
 /home/victor/dev/MyProjects/Balta.io/Todo/Todo.Domain.Infra/obj/Debug/netstandard2.0/Todo.Domain.Infra.csproj.CopyComplete
+C:\Dev\MyProjects\Todo\Todo.Domain.Infra\bin\Debug\netstandard2.0\Todo.Domain.Infra.deps.json
+C:\Dev\MyProjects\Todo\Todo.Domain.Infra\bin\Debug\netstandard2.0\Todo.Domain.Infra.dll
+C:\Dev\MyProjects\Todo\Todo.Domain.Infra\bin\Debug\netstandard2.0\Todo.Domain.Infra.pdb
+C:\Dev\MyProjects\Todo\Todo.Domain.Infra\bin\Debug\netstandard2.0\Todo.Domain.dll
+C:\Dev\MyProjects\Todo\Todo.Domain.Infra\bin\Debug\netstandard2.0\Todo.Domain.pdb
+C:\Dev\MyProjects\Todo\Todo.Domain.Infra\obj\Debug\netstandard2.0\Todo.Domain.Infra.csprojAssemblyReference.cache
+C:\Dev\MyProjects\Todo\Todo.Domain.Infra\obj\Debug\netstandard2.0\Todo.Domain.Infra.AssemblyInfoInputs.cache
+C:\Dev\MyProjects\Todo\Todo.Domain.Infra\obj\Debug\netstandard2.0\Todo.Domain.Infra.AssemblyInfo.cs
+C:\Dev\MyProjects\Todo\Todo.Domain.Infra\obj\Debug\netstandard2.0\Todo.Domain.Infra.csproj.CoreCompileInputs.cache
+C:\Dev\MyProjects\Todo\Todo.Domain.Infra\obj\Debug\netstandard2.0\Todo.Domain.Infra.csproj.CopyComplete
+C:\Dev\MyProjects\Todo\Todo.Domain.Infra\obj\Debug\netstandard2.0\Todo.Domain.Infra.dll
+C:\Dev\MyProjects\Todo\Todo.Domain.Infra\obj\Debug\netstandard2.0\Todo.Domain.Infra.pdb

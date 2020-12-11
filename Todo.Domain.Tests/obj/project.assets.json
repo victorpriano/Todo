@@ -5757,19 +5757,19 @@
     ]
   },
   "packageFolders": {
-    "/home/victor/.nuget/packages/": {}
+    "C:\\Users\\victo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/victor/dev/MyProjects/Balta.io/Todo/Todo.Domain.Tests/Todo.Domain.Tests.csproj",
+      "projectUniqueName": "C:\\Dev\\MyProjects\\Todo\\Todo.Domain.Tests\\Todo.Domain.Tests.csproj",
       "projectName": "Todo.Domain.Tests",
-      "projectPath": "/home/victor/dev/MyProjects/Balta.io/Todo/Todo.Domain.Tests/Todo.Domain.Tests.csproj",
-      "packagesPath": "/home/victor/.nuget/packages/",
-      "outputPath": "/home/victor/dev/MyProjects/Balta.io/Todo/Todo.Domain.Tests/obj/",
+      "projectPath": "C:\\Dev\\MyProjects\\Todo\\Todo.Domain.Tests\\Todo.Domain.Tests.csproj",
+      "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
+      "outputPath": "C:\\Dev\\MyProjects\\Todo\\Todo.Domain.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/victor/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -5780,8 +5780,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "/home/victor/dev/MyProjects/Balta.io/Todo/Todo.Domain/Todo.Domain.csproj": {
-              "projectPath": "/home/victor/dev/MyProjects/Balta.io/Todo/Todo.Domain/Todo.Domain.csproj"
+            "C:\\Dev\\MyProjects\\Todo\\Todo.Domain\\Todo.Domain.csproj": {
+              "projectPath": "C:\\Dev\\MyProjects\\Todo\\Todo.Domain\\Todo.Domain.csproj"
             }
           }
         }
@@ -5831,7 +5831,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.404/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.404\\RuntimeIdentifierGraph.json"
       }
     }
   }

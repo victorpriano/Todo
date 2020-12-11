@@ -5,7 +5,6 @@ using Todo.Domain.Commands.Contracts;
 
 namespace Todo.Domain.Commands
 {
-    public class MarkAsUndoneCommand: MarkDoneOrUndoneCommand
-    {
-    }
+    public class MarkTodoAsUndoneCommand : MarkTodoCommand
+    {}
 }

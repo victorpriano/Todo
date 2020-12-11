@@ -7,3 +7,12 @@
 /home/victor/dev/MyProjects/Balta.io/Todo/Todo.Domain/obj/Debug/netstandard2.0/Todo.Domain.csproj.CoreCompileInputs.cache
 /home/victor/dev/MyProjects/Balta.io/Todo/Todo.Domain/obj/Debug/netstandard2.0/Todo.Domain.dll
 /home/victor/dev/MyProjects/Balta.io/Todo/Todo.Domain/obj/Debug/netstandard2.0/Todo.Domain.pdb
+C:\Dev\MyProjects\Todo\Todo.Domain\bin\Debug\netstandard2.0\Todo.Domain.deps.json
+C:\Dev\MyProjects\Todo\Todo.Domain\bin\Debug\netstandard2.0\Todo.Domain.dll
+C:\Dev\MyProjects\Todo\Todo.Domain\bin\Debug\netstandard2.0\Todo.Domain.pdb
+C:\Dev\MyProjects\Todo\Todo.Domain\obj\Debug\netstandard2.0\Todo.Domain.csprojAssemblyReference.cache
+C:\Dev\MyProjects\Todo\Todo.Domain\obj\Debug\netstandard2.0\Todo.Domain.AssemblyInfoInputs.cache
+C:\Dev\MyProjects\Todo\Todo.Domain\obj\Debug\netstandard2.0\Todo.Domain.AssemblyInfo.cs
+C:\Dev\MyProjects\Todo\Todo.Domain\obj\Debug\netstandard2.0\Todo.Domain.csproj.CoreCompileInputs.cache
+C:\Dev\MyProjects\Todo\Todo.Domain\obj\Debug\netstandard2.0\Todo.Domain.dll
+C:\Dev\MyProjects\Todo\Todo.Domain\obj\Debug\netstandard2.0\Todo.Domain.pdb
