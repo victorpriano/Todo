@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "YXNWHq1IGbt6OYfiOMmvw7LOr9CF2KRhbY7etwL9lKaLlIKWQyA5/5OAuBcQS87HeVax26rtRJo8jlnMRmBz8g==",
+  "dgSpecHash": "zWGNX4baRdjxF+jgxvEl3lP7G1MPgwLJ+U5Ekc0G++JT53gaX9t8vKvYykEPwPuVpmIqGRMmyCeXiAXya5odgg==",
   "success": true,
   "projectFilePath": "C:\\Dev\\MyProjects\\Todo\\Todo.Domain.Api\\Todo.Domain.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\victo\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.10\\microsoft.aspnetcore.authentication.jwtbearer.3.1.10.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
