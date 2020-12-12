@@ -55,7 +55,7 @@
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[*, )"
+              "version": "[3.1.10, )"
             }
           },
           "imports": [
@@ -127,6 +127,10 @@
               "version": "[3.1.10, )"
             },
             "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[3.1.10, )"
             },
