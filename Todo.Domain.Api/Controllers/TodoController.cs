@@ -70,7 +70,7 @@ namespace Todo.Domain.Api.Controllers
             var user = User.Claims.FirstOrDefault(x => x.Type == "user_id")?.Value;
             return repository.GetByPeriod(
                 user,
-                DateTime.Now.AddDays(1),
+                DateTime.Now.Date.AddDays(1),
                 true
             );
         }
@@ -82,7 +82,7 @@ namespace Todo.Domain.Api.Controllers
             var user = User.Claims.FirstOrDefault(x => x.Type == "user_id")?.Value;
             return repository.GetByPeriod(
                 user,
-                DateTime.Now.AddDays(1),
+                DateTime.Now.Date.AddDays(1),
                 false
             );
         }

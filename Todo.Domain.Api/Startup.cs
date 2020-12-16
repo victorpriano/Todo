@@ -21,8 +21,6 @@ namespace Todo.Domain.Api
         }
 
         public IConfiguration Configuration { get; }
-
-        // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
@@ -31,7 +29,9 @@ namespace Todo.Domain.Api
             services.AddDbContext<DataContext>(opt => opt.UseSqlServer(Configuration.GetConnectionString("connectionString")));
             services.AddTransient<ITodoRepository, TodoRepository>();
             services.AddTransient<TodoHandler, TodoHandler>();
-            services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
+            
+            services
+                    .AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
                     .AddJwtBearer(options => 
                     {
                         options.Authority = "https://securetoken.google.com/todos-3e10a";
@@ -46,7 +46,6 @@ namespace Todo.Domain.Api
                     });
         }
 
-        // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
             if (env.IsDevelopment())
@@ -63,9 +62,9 @@ namespace Todo.Domain.Api
                 .AllowAnyMethod()
                 .AllowAnyHeader());
 
-            app.UseAuthorization();
-
             app.UseAuthentication();
+
+            app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
             {
